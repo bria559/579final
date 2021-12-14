@@ -11,9 +11,9 @@ ReactDOM.render(
   <>
     <div className="container">
       <div>
-        {/* <a href="https://bria559.github.com/579ps6/"> */}
+        <a href="https://github.com/bria559/579final">
           Code
-        {/* </a> */}
+        </a>
       </div>
       <h1>Covid19 Data</h1>
       <DisplayCovidData />
